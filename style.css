@@ -1226,7 +1226,8 @@ h2 {
   text-transform: lowercase;
 }
 
-h3.site-description {
+h3.site-description, .site-footer p {
   display: none;
 }
+
 
